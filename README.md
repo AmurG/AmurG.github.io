@@ -2,13 +2,14 @@
 
 ![me](https://images.gr-assets.com/users/1482978694p6/63156024.jpg)
 
-Hi, I'm Amur Ghose. I'm presently a ML PhD student at UCSD working on a start-up idea.
+Hi, I'm Amur Ghose. I'm presently building a new startup, currently under stealth, on the intersection of GenAI x EdTech and am on leave from my ML PhD at UCSD.   
 
-Previously and in that order, I worked as a researcher at Huawei Montreal till Feb 23, was a Math master's student specializing in CS at UWaterloo, and an Electrical Engineering undergrad at IIT Kanpur. I received the David Cheriton fellowship fully funding my MS studies and was an Academic excellence award holder at IITK, awarded to top 7% by GPA. I worked with Worldquant LLC / Millennium Investments during my undergraduate years. 
 
-During this time, I wrote quite a bit of trading strategies in Python and learnt a thing or two about a thing or two for SWEs. I have published some [stuff](https://scholar.google.com/citations?user=bS4Q1mYAAAAJ&hl=en) at ML confs like Neurips, EMNLP, UAI, AISTATS etc. 
+Previously, I wrote software for the past three years (2020 to 2023) at Huawei, Montreal. Earlier yet, in 2018, I received the David Cheriton fellowship for fully funding my MS studies at UWaterloo from 2018 to 2020 where I was s a Math + CS Master's student. Before that, I graduated summa cum laude with a Btech in Electrical Engineering from IIT Kanpur in 2018. During IITK, I received the Academic excellence award holder at IITK, awarded to top 7% by GPA. Throughout my undergraduate years, I had a parallelly position at Worldquant LLC / Millennium Investments where I implemented efficient software systems for trading.
 
-A long time ago in a country far, far...(very far) away, I was a high school student in India, where I took the IIT-JEE, scoring roughly at 99.95th percentile, qualified some other exams like KVPY, national olympiads in astronomy, linguistics (top 50 or so nationally for each) and distinctions for the ones in math and physics. (top 100), which serve as the pathway to the international teams for India at the olympiads. 
+And a long time ago in a place far, far...(very far) away, I was a high school student in India, where I took the IIT-JEE, scoring roughly at 99.95th percentile, qualified competitive country-wide Indian merit scholarship exams like KVPY, national olympiads in astronomy (INAO, top 30 annually nation-wide), linguistics (top 50 annually nation-wide) and distinctions for the ones in math (INMO, top 100) and physics (INPhO, top 100). 
+
+Unfortunately, I have constant troubles with my LinkedIn page due to duplication issues, please refer [here](https://scholar.google.com/citations?user=bS4Q1mYAAAAJ&hl=en) for (some) past publications. 
 
 
 
